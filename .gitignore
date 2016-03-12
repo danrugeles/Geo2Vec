@@ -1,0 +1,4 @@
+*.csv
+config.py
+*.pkl
+*.pyc
